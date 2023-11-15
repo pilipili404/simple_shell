@@ -1,4 +1,4 @@
-lists.c
+list1.c
 
 #include "shell.h"
 
